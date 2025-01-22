@@ -1,4 +1,4 @@
-**##The Power of Data Mining in the Age of Big Data**
+## The Power of Data Mining in the Age of Big Data
 
 ## Basic Topics
 
